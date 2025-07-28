@@ -35,6 +35,5 @@ This repository contains a smart contract implementation of an **upgradable ERC2
 
 - install openzeppelin dependancies using forge. 
 
-
-
-# xxxcoin
+-- forge install openzeppelin/openzeppelin-contracts-upgradeable
+-- forge install openzeppelin/openzeppelin-contracts
